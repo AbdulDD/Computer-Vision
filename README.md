@@ -1,4 +1,4 @@
 # Computer-Vision-Tutorials
 
 ## To Do
-- [ ] Create Subfolder for Visual DOcument Understanding (VDU) 
+- [ ] Create Subfolder for Visual Document Understanding (VDU) 
